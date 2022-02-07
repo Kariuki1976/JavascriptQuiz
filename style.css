@@ -1,0 +1,27 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    /* box-sizing: border-box; */
+    font-family: sans-serif;
+    /* background: #220202; */
+}
+
+body {
+    background-color: #220202;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 4%;
+}
+
+#heading {
+    color: #5F06F0;
+}
+
+#button {
+    background-color: #5F06F0;
+    color: white;
+    height: 58px;
+    width: 145px;
+    font-size: 30px;
+}
