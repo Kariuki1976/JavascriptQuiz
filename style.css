@@ -6,19 +6,18 @@
     /* background: #220202; */
 }
 
-
-/* body {
+body {
     background-color: #220202;
     color: white;
     font-size: 20px;
     font-weight: bolder;
-    margin-left: 4%; */
-
-
+    margin-left: 4%;
 }
+
 #heading {
     color: #5F06F0;
 }
+
 #button {
     background-color: #5F06F0;
     color: white;
