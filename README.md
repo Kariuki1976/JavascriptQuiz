@@ -1,9 +1,14 @@
 ## Table of content
 *Project Name
+
 *Description
+
 *Design
+
 *Technology Used
+
 *Installation
+
 *Installation Process
 
 
@@ -25,8 +30,11 @@ Javascript Quiz
 ### Installation
 #### Requirements
 *Devices such as Desktop and Laptop.
+
 *Access to the internet.
 
+### Installation Process
+Click [Here](https://github.com/Kariuki1976/JavascriptQuiz.git) to view the live site
 ## License
 MIT License Copyright (c) [2021] [Emmanuel Mwangi Kariuki]
 
@@ -36,5 +44,7 @@ The above copyright notice and this permission notice shall be included
  in all copies or substantial portions of the software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTLY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIS OF MERCHANT ABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPY RIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,WHETHER IN AN ACTION OF CONTRACT,TORT OR OTHERWISE,ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Author's Info
+Gmail - [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 
