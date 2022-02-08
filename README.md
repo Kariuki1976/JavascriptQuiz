@@ -1,9 +1,20 @@
-# Project Name
+## Table of content
+*Project Name
+*Description
+*Design
+*Technology Used
+*Installation
+*Installation Process
+
+
+## Project Name
 Javascript Quiz
 #### Description
  _It is a commercial website used to test the knowledge of freshly graduated students._
 
----
+## Design
+(https://www.figma.com/file/tQo1EJ0vYXrqYSGOhlmxwo/Untitled?node-id=1%3A2)
+
 ### **Technology Used**
 -HTML for structure and positioning.
 
@@ -11,8 +22,10 @@ Javascript Quiz
 
 -Javascript for making my page interactive.
 
-## Design
-(https://www.figma.com/file/tQo1EJ0vYXrqYSGOhlmxwo/Untitled?node-id=1%3A2)
+### Installation
+#### Requirements
+*Devices such as Desktop and Laptop.
+*Access to the internet.
 
 ## License
 MIT License Copyright (c) [2021] [Emmanuel Mwangi Kariuki]
